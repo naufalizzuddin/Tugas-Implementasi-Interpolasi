@@ -12,8 +12,8 @@ Merupakan implementasi kode untuk permasalahan Interpolasi yang dibuat dengan ba
 <br>
 
 ## Hasil
-- Metode Lagrange
-![Polinom-Lagrange](hasil/image.png) <br>
+- Metode Lagrange <br>
+![Polinom-Lagrange](hasil/image.png)
 
 - Metode Newton
 ![Polinom-Newton](hasil/image-1.png)
