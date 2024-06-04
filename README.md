@@ -15,5 +15,5 @@ Merupakan implementasi kode untuk permasalahan Interpolasi yang dibuat dengan ba
 - Metode Lagrange <br>
 ![Polinom-Lagrange](hasil/image.png)
 
-- Metode Newton
+- Metode Newton <br>
 ![Polinom-Newton](hasil/image-1.png)
