@@ -12,7 +12,7 @@ Merupakan implementasi kode untuk permasalahan Interpolasi yang dibuat dengan ba
 <br>
 
 ## Hasil
-- Metode Lagrange <br>
+- Metode Lagrange <br> 
 ![Polinom-Lagrange](hasil/image.png)
 
 - Metode Newton <br>
