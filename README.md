@@ -4,11 +4,6 @@ Merupakan implementasi kode untuk permasalahan Interpolasi yang dibuat dengan ba
 - metode Lagrange 
 - metode Newton <br>
 
-|   |   |
-|---|---|
-|Nama | Naufal Izzuddin Taufik |
-|NIM | 21120122140102 |
-|Kelas | Metode Numerik B| 
 <br>
 
 ## Hasil
